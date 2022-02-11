@@ -1,7 +1,7 @@
 # EmployeeLeaveManagementSystem-ELMS
-# EmployeeLeaveManagementSystem-ELMS
-Description: It is a basic system that allows admin to manage leaves of the employees.
-2 main modules:
+# Description
+It is a basic system that allows admin to manage leaves of the employees.
+# main modules:
 1- Admin Module -->
 i-   handles and deals with leaves applied by an employee.
 ii-  admin can approve/reject the leave.
